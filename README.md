@@ -7,5 +7,7 @@ Vision (ECCV), 2014
 
 Usage TV-Smoothing.py test.png
 
+Sample input and output images
+
 ![alt tag](https://raw.githubusercontent.com/eshafeeqe/TV-smoothing/master/test.jpg)
 ![alt tag](https://raw.githubusercontent.com/eshafeeqe/TV-smoothing/master/smoothed.png)
